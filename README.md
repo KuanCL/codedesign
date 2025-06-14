@@ -1,7 +1,7 @@
 # Read Me
 
-## My Project: Eye Color Game with Python Turtle
-For my Code in Place final project, I created a simple Eye Color Game using Python's turtle graphics module and the random module. 
+## My Project: Eye Test Game with Python Turtle
+For my Code in Place final project, I created a simple Eye Test Game using Python's turtle graphics module and the random module. 
 The idea behind the game is fun and visual—players are shown a pair of cartoon eyes that randomly change color, and they try to 
 click when the eyes turn a specific target color. It's a light-hearted way to practice color recognition and timing.
 <br>
@@ -20,7 +20,8 @@ lot of reading documentation, I learned how to:
 ## My Experience
 At first, I felt nervous because I didn’t have much experience with coding before this class. But Code in Place helped make Python 
 feel approachable. The lecture videos and exercises helped me understand how Python works, and the community was really encouraging. 
-Also, all the sections and extra event videos helped to understand how to approach the problem by breaking it into small parts. 
+Also, all the sections and extra event videos helped to understand how to approach the problem by breaking it into small parts, 
+then building up piece by piece.  
 <br>
 Building the game itself was both challenging and exciting. I ran into bugs, like the colors not updating properly or clicks not 
 being detected, but fixing them made me feel proud. It taught me how to debug patiently and keep testing small parts of my code.
