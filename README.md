@@ -19,6 +19,7 @@ lot of reading documentation, I learned how to:
 </ul>
 <br>
 <br>
+
 ## My Experience
 At first, I felt nervous because I didn’t have much experience with coding before this class. But Code in Place helped make Python 
 feel approachable. The lecture videos and exercises helped me understand how Python works, and the community was really encouraging. 
@@ -28,6 +29,7 @@ Building the game itself was both challenging and exciting. I ran into bugs, lik
 being detected, but fixing them made me feel proud. It taught me how to debug patiently and keep testing small parts of my code.
 <br>
 <br>
+
 ## Final Thoughts
 This project showed me that even as a beginner, I can create something fun and interactive with just a few lines of code. 
 I'm really proud of how it turned out. More importantly, it motivated me to keep learning Python and try out more creative 
