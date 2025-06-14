@@ -5,7 +5,6 @@ For my Code in Place final project, I created a simple Eye Color Game using Pyth
 The idea behind the game is fun and visual—players are shown a pair of cartoon eyes that randomly change color, and they try to 
 click when the eyes turn a specific target color. It's a light-hearted way to practice color recognition and timing.
 <br>
-<br>
 ## What I Learned
 This was my very first time building a full project in Python, and also my first time using the turtle module. At the beginning, 
 I wasn’t even sure how to draw basic shapes or how events like mouse clicks worked in Turtle. Through trial, error, and a
@@ -17,7 +16,6 @@ lot of reading documentation, I learned how to:
 <li>Create clickable interactions using onclick()</li>
 <li>Manage basic game logic like scoring and color matching</li>
 </ul>
-<br>
 
 ## My Experience
 At first, I felt nervous because I didn’t have much experience with coding before this class. But Code in Place helped make Python 
