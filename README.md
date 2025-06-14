@@ -8,7 +8,7 @@ click when the eyes turn a specific target color. It's a light-hearted way to pr
 <br>
 ## What I Learned
 This was my very first time building a full project in Python, and also my first time using the turtle module. At the beginning, 
-I wasn’t even sure how to draw basic shapes or how events like mouse clicks worked in Turtle. Through trial, error, and a 
+I wasn’t even sure how to draw basic shapes or how events like mouse clicks worked in Turtle. Through trial, error, and a
 lot of reading documentation, I learned how to:
 <br>
 <ul>
@@ -18,7 +18,6 @@ lot of reading documentation, I learned how to:
 <li>Manage basic game logic like scoring and color matching</li>
 </ul>
 <br>
-<br>
 
 ## My Experience
 At first, I felt nervous because I didn’t have much experience with coding before this class. But Code in Place helped make Python 
@@ -27,7 +26,6 @@ Also, all the sections and extra event videos helped to understand how to approa
 <br>
 Building the game itself was both challenging and exciting. I ran into bugs, like the colors not updating properly or clicks not 
 being detected, but fixing them made me feel proud. It taught me how to debug patiently and keep testing small parts of my code.
-<br>
 <br>
 
 ## Final Thoughts
